@@ -1,0 +1,17 @@
+json raza:
+
+{
+  "nombre": "napoleon"
+}
+
+Json gatos:
+
+{
+    "nombre": "sakura",
+    "edad": 6,
+    "fechaNacimiento": "2016-05-09",
+    "vacunado": true,
+    "jeanRazas":{
+      "id": 2
+    }
+}
